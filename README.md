@@ -1,4 +1,4 @@
-# Salut, je suis [Ton Prénom] 👋
+# Salut, je suis Elaia 👋
 
 Je suis une étudiante en première année à **EPITECH Bordeaux**, passionnée par le développement informatique et la technologie. J'aime relever des défis, apprendre de nouvelles compétences et travailler sur des projets intéressants. Ce profil contient mes projets personnels, dont l'apprentissage de certains langages.
 
