@@ -7,7 +7,7 @@ Je suis une étudiante en première année à **EPITECH Bordeaux**, passionnée 
 ## 🧑‍🎓 À propos de moi
 
 - 🌱 Je suis actuellement en première année à **EPITECH Bordeaux**, où je me concentre sur le développement logiciel et les sciences informatiques.
-- 👩‍💻 Je m'intéresse particulièrement à la **programmation en C**, **l'algorithmique** et la **CSFML**.
+- 👩‍💻 Je m'intéresse particulièrement à la **programmation en C**, à **l'algorithmique** et à la **CSFML**.
 - 🌍 Je suis une grande passionnée de **technologies** et toujours à la recherche de nouveaux défis pour améliorer mes compétences.
 - 🤖 En dehors de l'école, j'aime expérimenter avec des projets personnels et explorer de nouveaux langages.
 
